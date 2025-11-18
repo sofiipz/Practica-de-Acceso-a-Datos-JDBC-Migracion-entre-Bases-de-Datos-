@@ -1,0 +1,10 @@
+Esquema original 'prac2' - Tabla 'clientes': 52
+Esquema de destino 'prac2migra' - Tabla 'clientes': 52
+Datos migrados 'prac2' -> 'prac2migra': 52
+Esquema original 'prac2' - Tabla 'muebles': 30
+Esquema de destino 'prac2migra' - Tabla 'muebles': 30
+Datos migrados 'prac2' -> 'prac2migra': 30
+Esquema original 'prac2' - Tabla 'pedidos': 50
+Esquema de destino 'prac2migra' - Tabla 'pedidos': 50
+Datos migrados 'prac2' -> 'prac2migra': 50
+Total registros en prac2migra: 132

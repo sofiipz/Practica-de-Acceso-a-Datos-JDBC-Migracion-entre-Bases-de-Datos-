@@ -1,0 +1,12 @@
+<config>
+    <rutaLog>logs/amadzon.log</rutaLog>
+    <nivel>TRACE</nivel>
+    <maximoTamano>5000</maximoTamano>
+    <rotacion>
+        <prefijo>rotado_</prefijo>
+    </rotacion>
+    <destinos>
+        <consola>true</consola>
+        <fichero>true</fichero>
+    </destinos>
+</config>
